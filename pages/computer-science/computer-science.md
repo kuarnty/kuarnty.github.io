@@ -1,0 +1,68 @@
+---
+layout: default
+title: Computer Science
+description: Computer Science Field의 개요와 목차
+category: Computer Science
+---
+
+# 개요
+
+**Computer Science** 분야의 다양한 주제들을 폭넓게 다룹니다.
+
+특히 프로그래밍의 **기초** 및 **기반**이 되는 내용들을 중심으로, 여러 세부 분야에서 **필요**로 하는 개념, **중요**하다고 생각하거나 **흥미**있는 주제들을 주로 다룹니다.
+
+**수학**과 **컴퓨터 과학** 두 분야에 모두 관심이 있기 때문에 컴퓨터 과학 관련 주제들에도 **수학적으로 접근**하고자 할 것입니다.
+
+즉, 빠르고 실전적인 사용법이나 해결 방법보다, 주로 주제에 대한 충분한 **논리적, 수학적 이해**를 바탕으로 추상적인 기술적 접근법이나 구현 방법을 설명하는 데 중점을 둘 것입니다.
+
+---
+
+### Contents
+
+#### [Basic Programming](/pages/computer-science/basic-programming.html)
+ 기본적인 프로그래밍의 개념, 핵심적인 원리와 기초 문법들을 다룹니다. 전반적인 프로그래밍 방법론과 언어들에 적용되는 공통적인 내용들을 주로 다루며, 이해를 돕기 위해 C style pseudo code 및 C 언어 문법을 주로 사용합니다.
+
+#### Algorithm Basic
+ 알고리즘의 기본 개념과 여러 알고리즘을 학습하는 데에 필요하거나 도움이 되는 기초 지식들을 다룹니다.
+
+#### Data Structures
+ 기초적인 자료구조
+- [Array](/pages/computer-science/data-structures/array.html)
+- Linked List
+- Stack
+- Queue
+- Hash Table
+
+#### Tree
+ tree의 개념, 관련 기초 개념들
+- Tree Basic
+- BFS
+- DFS
+- Binary Search Tree
+- Heap
+- Priority Queue
+
+#### Sorting
+ 주요 정렬 알고리즘
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Radix Sort
+- Suffix Array
+
+#### Graph
+ 그래프의 기본 개념과 주요 개념 및 알고리즘
+- Graph Representation
+- Shortest Path Algorithm
+- Topological Sort
+- Minimum Spanning Tree
+
+#### Algorithm Design Paradigms
+ 여러 알고리즘 설계 기법과 구체적인 알고리즘들
+- Divide and Conquer
+- Greedy Algorithm
+- Dynamic Programming
+- Recursion
+- Approximation Algorithms

@@ -1,123 +1,105 @@
 ---
 layout: default
+title: main page
+description: main page description
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Welcome to My Blog
 
-[Link to another page](./another-page.html).
+## 소개
 
-There should be whitespace between paragraphs.
+### [About Me](/pages/about.html)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+ **수학**과 **컴퓨터 과학**에 관심이 많은 블로거의 개인 블로그입니다.
 
-# Header 1
+ 두 분야 및 관련 분야들의 **다양한 주제들에 대해 학습**하고, 이를 **깊이 있고 논리적인 접근을 통해 설명**하고자 합니다.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<details>
+<summary>더 보기</summary>
+ 
+#### 글의 목적과 작성 방식
 
-## Header 2
+ 핵심 내용을 최대한 **간결하고 명확하게** 설명하고자 합니다. 따라서 필수적인 **배경지식/기초지식에 대한 충분히 이해**를 전제로 글을 작성합니다. 단, 필요한 개념들을 **블로그 내 다른 글들을 통해 학습**할 수 있도록 하고, 일부 필요한 경우 외부 자료 등을 참고할 수 있도록 할 것입니다. 또한, 가볍게 기억을 되살릴 수 있도록 **요약**을 제공하여, 복습 시 용이하게 할 것입니다. 겸사 겸사 처음 글을 읽을 때에도 전체적인 맥락을 파악하는 데 도움이 될 것으로 기대합니다.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+#### 언어와 용어
 
-### Header 3
+ 기본적으로 **한국어**로 글을 작성합니다. 다만 **학술 용어나 단어들**의 경우 학습의 편의를 위해 **영어**로 표기하고 한국어 단어 설명을 덧붙일 수 있습니다. 가급적 하나의 통일된 용어를 사용하려 하나, 복수의 용어가 동시에 널리 사용되는 경우 하나를 선택하여 사용하되 나머지를 병기할 수 있습니다. 기본적으로 더 널리 사용되는 용어를 우선시하되, 의미 전달 면에서 더 적합하다고 판단되는 경우 해당 용어를 우선시할 수 있습니다.
+ 
+#### 알림
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+(_25.11.27 기준_) **기존 지식들**을 되돌아보며 정리하는 글들과 더불어, 앞으로 **새롭게 학습한 내용들**에 대한 글들도 함께 추가될 예정입니다.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+</details>
 
-#### Header 4
+---
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Contents
 
-##### Header 5
+ 아래와 같이 주제들을 분류하였습니다. **큰 분야** -> **세부 분야** -> **주제** 순서로 구성되어 있습니다.
+ 
+ 각 **주제마다 하나의 글**이 작성되므로, **링크가 활성화**되어 있는 경우 클릭하여 해당 글로 이동할 수 있습니다.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+ 작성 예정인 글들도 목록에 포함되어 있습니다.
 
-###### Header 6
+ 글 하나는 여러 **챕터**로 나뉘어져 **세부적인 내용들**을 다룹니다.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+ 내용의 추가/변경 등의 이유로 언제든 분류 체계가 변경될 수 있습니다.
 
-### There's a horizontal rule below this.
+- ### [Computer Science](/pages/computer-science/computer-science.html)
+	- #### [Basic Programming](/pages/computer-science/basic-programming.html)
+		- Programming
+		- Variable & Data Type
+		- Array & Pointer
+		- Structure
+		- Calculation & Operator
+		- Conditional Statement
+		- Iteration & Loop
+		- Function & Modular Programming
+		- Input & Output
+	- #### Algorithm Basic
+		- Algorithmic Complexity & Big O Notation
+		- Boolean Algebra & Bitwise Operations
+		- Binary Search
+	- #### Data Structures
+		- [Array](./pages/computer-science/data-structures/array.html)
+		- Linked List
+		- Stack
+		- Queue
+		- Hash Table
+	- #### Tree
+		- Tree Basic
+		- BFS
+		- DFS
+		- Binary Search Tree
+		- Heap
+		- Priority Queue
+	- #### Sorting
+		- Bubble
+		- Selection
+		- Insertion Sort
+		- Merge Sort
+		- Quick Sort
+		- Radix Sort
+		- Suffix Array
+	- #### Graph
+		- Graph Representation
+		- Shortest Path Algorithm
+		- Topological Sort
+		- Minimum Spanning Tree
+		- Strongly Connected Component
+	- #### Algorithm Design Paradigms
+		- Divide and Conquer
+		- Greedy Algorithm
+		- Dynamic Programming
+		- Recursion
+		- Approximation Algorithms
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- ### Mathematics
+	- #### Linear Algebra
+	- #### Set Theory
+	- #### Calculus
+	- #### Number Theory
+	- #### Analysis
+	- #### Topology
+	- #### Abstract Algebra
+	- #### Differential Geometry
