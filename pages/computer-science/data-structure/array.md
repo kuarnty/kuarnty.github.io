@@ -65,7 +65,7 @@ int last = array[4];    // 4 번째이자 다섯 번째(마지막) 요소: 값 5
 
 ## 참고
 
-[GitHub - 배열 사용 예시(cpp)](https://github.com/kuarnty/implement-CS/computer-science/data-structure/array/array.cpp)
+[GitHub - 배열 사용 예시(cpp)](https://github.com/kuarnty/implement-CS/computer-science/data-structure/Array.cpp)
 
 배열은 대부분의 자료구조의 기본이 됩니다. 즉, 다른 대부분의 자료구조들은 **실제 값들을 배열에 저장**하되, 값들에 접근하거나 관리하는 추가적인 방식이나 구조를 더하여 구현한 것으로 볼 수 있습니다. 따라서 다른 자료구조의 구조에 기본적으로 배열이 포함되어 있다는 점을 항상 기억해야 합니다.
 
