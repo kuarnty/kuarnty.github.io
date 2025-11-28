@@ -47,4 +47,4 @@ Stack과 유사하지만 **선입선출**(**FIFO**, First In First Out**) 방식
 
 ### [**Hash Table**](/pages/computer-science/data-structure/hash-table.html)
 
-기본적으로 Array에 기반하지만, Array가 단순히 인덱스(위치)를 통해 요소에 접근하는 것과 달리, **키(key)**를 **해시 함수에 통과**시켜 생성된 **해시값을 인덱스로 값(value)에 접근**합니다. 
+기본적으로 Array에 기반하지만, Array가 단순히 인덱스(위치)를 통해 요소에 접근하는 것과 달리, **키(key)**를 **해시 함수에 통과**시켜 생성된 **해시값을 인덱스로 값(value)에 접근**합니다.
