@@ -1,0 +1,19 @@
+<svg width="480" height="140" xmlns="http://www.w3.org/2000/svg">
+    <text x="240" y="30" font-size="18" text-anchor="middle" fill="#222" font-family="sans-serif">배열(Array) 구조</text>
+<!-- 값 박스 -->    <rect x="60" y="60" width="60" height="40" fill="#f8f8f8" stroke="#333"></rect>
+    <rect x="120" y="60" width="60" height="40" fill="#f8f8f8" stroke="#333"></rect>
+    <rect x="180" y="60" width="60" height="40" fill="#f8f8f8" stroke="#333"></rect>
+    <rect x="240" y="60" width="60" height="40" fill="#f8f8f8" stroke="#333"></rect>
+    <rect x="300" y="60" width="60" height="40" fill="#f8f8f8" stroke="#333"></rect>
+<!-- 값 표시 -->    <text x="90" y="87" font-size="20" text-anchor="middle" fill="#333">1</text>
+    <text x="150" y="87" font-size="20" text-anchor="middle" fill="#333">2</text>
+    <text x="210" y="87" font-size="20" text-anchor="middle" fill="#333">3</text>
+    <text x="270" y="87" font-size="20" text-anchor="middle" fill="#333">4</text>
+    <text x="330" y="87" font-size="20" text-anchor="middle" fill="#333">5</text>
+<!-- 인덱스 표시 -->    <text x="90" y="120" font-size="15" text-anchor="middle" fill="#0074D9">0</text>
+    <text x="150" y="120" font-size="15" text-anchor="middle" fill="#0074D9">1</text>
+    <text x="210" y="120" font-size="15" text-anchor="middle" fill="#0074D9">2</text>
+    <text x="270" y="120" font-size="15" text-anchor="middle" fill="#0074D9">3</text>
+    <text x="330" y="120" font-size="15" text-anchor="middle" fill="#0074D9">4</text>
+    <text x="370" y="120" font-size="15" fill="#333">← 인덱스(Index)</text>
+</svg>
