@@ -1,8 +1,15 @@
 title: Kuarnty's Blog
 description: A blog about Computer Science and Mathematics
 show_downloads: true
-google_analytics:
 theme: jekyll-theme-cayman
+
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-VFY1K2RDNB"
+    anonymize_ip         : # true, false (default)
 
 show_downloads: false
 
