@@ -19,6 +19,8 @@ category: Computer Science - Data Structure
 
 따라서 기본적인 프로그래밍 방법과 더 복잡하고 발전된 방법을 이해하기 위해서는 **기본적인 자료구조들을 이해**하는 것이 중요합니다.
 
+자료구조에서 데이터를 저장하고 다루는 방법은 일종의 알고리즘으로 볼 수 있으며, 따라서 그 **효율성**을 [**시간 복잡도(Time Complexity)와 공간 복잡도(Space Complexity)**]<!--(/pages/computer-science/algorithm-basic/algorithmic-complexity-&-big-o-notation)-->를 기준으로 평가할 수 있습니다.
+
 ---
 
 아래의 글들에서 이러한 기본적인 자료구조들에 대해 다룹니다.
