@@ -41,7 +41,7 @@ category: Computer Science
 - Boolean Algebra & Bitwise Operations
 - Binary Search
 
-### [Data Structure](/pages/computer-science/data-structures/data-structure.html)
+### [Data Structure](/pages/computer-science/data-structure/data-structure.html)
 
 기초적인 자료구조
 
