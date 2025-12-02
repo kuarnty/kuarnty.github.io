@@ -170,7 +170,7 @@ vec.pop_back();                     // 마지막 요소 삭제 (30 삭제)
 
 ## 참고
 
-[GitHub - 벡터 구현 예시(cpp) - cpp의 std::vector를 사용하지 않고 벡터 자료구조를 직접 구현한 예시](https://github.com/kuarnty/implement-CS/blob/main/data-structure/Vector.cpp) 
+[GitHub - 벡터 구현 예시(cpp) - cpp의 std::vector를 사용하지 않고 벡터 자료구조를 직접 구현한 예시](https://github.com/kuarnty/implement-CS/blob/main/data-structure/Vector.cpp)
 
 벡터는 배열의 장점(빠른 인덱스 접근)을 유지하면서, **동적 크기 조절**을 통해 **유연한 요소 관리**가 가능해 다양한 상황에서 널리 사용됩니다. 대부분의 현대 프로그래밍 언어에서 벡터 또는 유사한 동적 배열 자료구조를 제공합니다.
 

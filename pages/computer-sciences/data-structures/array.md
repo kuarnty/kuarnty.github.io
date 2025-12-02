@@ -2,7 +2,7 @@
 layout: article
 title: Array
 description:
-category: Computer Science - Data Structure - Array
+category: Computer Sciences - Data Structures - Array
 ---
 
 # Array(배열)
@@ -40,7 +40,7 @@ category: Computer Science - Data Structure - Array
 
 이를 통해 값의 **추가 및 삭제가 유연**해지면서도, 배열의 장점인 인덱스를 통한 **빠른 접근 속도를 유지**할 수 있어, 극단적인 최적화가 필요하거나, 명확히 고정된 크기의 배열만 필요한 경우 등을 제외하면 **일반적인 배열의 역할**을 벡터가 대체할 수 있습니다.
 
-자세한 내용은 [Vector](/pages/computer-science/data-structure/vector.html) 글에서 다룹니다.
+자세한 내용은 [Vector](/pages/computer-sciences/data-structures/vector.html) 글에서 다룹니다.
 
 </details>
 
@@ -77,7 +77,7 @@ int last = array[4];    // 4 번째이자 다섯 번째(마지막) 요소: 값 5
 
 ## 참고
 
-[GitHub - 배열 사용 예시(cpp)](https://github.com/kuarnty/implement-CS/blob/main/data-structure/Array.cpp)
+[GitHub - 배열 사용 예시(cpp)](https://github.com/kuarnty/implement-CS/blob/main/data-structures/Array.cpp)
 
 배열은 대부분의 자료구조의 기본이 됩니다. 즉, 다른 대부분의 자료구조들은 **실제 값들을 배열에 저장**하되, 값들에 접근하거나 관리하는 추가적인 방식이나 구조를 더하여 구현한 것으로 볼 수 있습니다. 따라서 다른 자료구조의 구조에 기본적으로 배열이 포함되어 있다는 점을 항상 기억해야 합니다.
 
